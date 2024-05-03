@@ -5,10 +5,10 @@
 /* flex-wrap: wrap;*/
 
 }
-#encabesado{
- border-bottom: 5px;
+.encabesado{
+ border-bottom: 2;
  border-bottom-color: black;
- border-bottom-width: 2px ;
+ border-bottom-width:3 ;
 
 }
 .container {
