@@ -1,3 +1,10 @@
+.body {
+ background-color:antiquewhite;
+
+
+}
+
+
 .conteneor{
     display: flex;
     flex-wrap: wrap;
