@@ -5,6 +5,15 @@
 /* flex-wrap: wrap;*/
 
 }
+#encabesado{
+ border-bottom: 5px;
+ border-bottom-color: black;
+ border-bottom-width: 2px ;
+
+}
+.container {
+    align-items:center ;
+}
 
 
 .seccion{
