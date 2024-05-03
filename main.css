@@ -1,9 +1,24 @@
 .body {
- background-color:antiquewhite;
-
+ background-color:rgba(189, 197, 209, 0.726);
+ margin: 0;
+ /*display: flex;*/
+/* flex-wrap: wrap;*/
 
 }
 
+
+.seccion{
+   background-color:bisque;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px 10px 10px 10px ;
+    padding-left: 10px;
+    padding-right: 5px;    
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+
+}
 
 .conteneor{
     display: flex;
