@@ -52,6 +52,7 @@
     padding: 5px;
     margin: 5px;
     border-radius: 2;
+    justify-content: center;
 }
 
 @media only screen and (max-width: 460px) {
